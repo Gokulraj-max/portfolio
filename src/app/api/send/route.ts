@@ -4,7 +4,6 @@ import { ContactEmailTemplate } from '@/components/contact-email-template'
 import { type ContactEmailTemplateProps } from '@/types'
 
 export const runtime = 'edge'
-//export const dynamic = 'force-dynamic'
 
 const resend = new Resend('re_ReGujLZi_FmQtM7gDi7RMufMgYK1L5VgS')
 
